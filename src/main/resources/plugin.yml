@@ -1,0 +1,16 @@
+name: Transforms
+main: org.KosmicMedia.KosmicForms.MainClass
+version: 19.1 Pre-Release
+commands:
+  KosmicForms:
+    description: Kosmic forms main command
+    aliases: kf
+  kMenu:
+    description: Kosmic forms menu command
+    aliases: km
+  kSetForm:
+    description: DONT USE UNLESS YOU KNOW WHAT YOURE DOING
+    aliases: ks
+  kHakai:
+    description: DONT USE UNLESS YOU KNOW WHAT YOURE DOING
+    aliases: kh

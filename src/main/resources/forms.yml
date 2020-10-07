@@ -1,0 +1,1156 @@
+FormOthers:
+  GOD:
+    name: God
+    FormattedName: G.O.D
+    Color: '&5&l'
+    Particle: witchMagic
+    Speed: 0.8
+    Race: -1
+    StackWithDBCForms: false
+    StackWithDBCKaioken: false
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: 0Bp2S
+    AuraColor: 11732716
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: 0Bp2S
+    Eye2: 0Bp2S
+    StatusEffs: B
+    State: -1
+    Kaio: -1
+    Level: 20000
+    Color1: FUCHSIA
+    Color2: PURPLE
+    FormMenu:
+      MenuLocation: 12
+      MenuItemID: 351
+      MenuItemDamage: 5
+      UpgradeItemID: 160
+      UpgradeItemDamage: 10
+    levels:
+      level-1:
+        FormDamage: 1000000
+        FormDamageMultiplier: 15.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.15
+        FormCost: 1000000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 1500000
+        FormDamageMultiplier: 17.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.17
+        FormCost: 1500000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 2000000
+        FormDamageMultiplier: 19.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.19
+        FormCost: 2000000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 2500000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.15
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.22
+        FormCost: 2500000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 3000000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.2
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.25
+        FormCost: 3000000
+        FormDodgeChance: 0.0
+  UI:
+    name: UI
+    FormattedName: M.U.I
+    Color: '&f&l'
+    Particle: fireworksSpark
+    Speed: 0.8
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: true
+    StackWithDBCUltraInstinct: true
+    HairColor: 0XlhS
+    AuraColor: 13421800
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: 0XlhS
+    Eye2: 0XlhS
+    StatusEffs: NB
+    State: 0
+    Kaio: -1
+    Level: 25000
+    Color1: WHITE
+    Color2: SILVER
+    FormMenu:
+      MenuLocation: 14
+      MenuItemID: 351
+      MenuItemDamage: 15
+      UpgradeItemID: 160
+      UpgradeItemDamage: 0
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 20.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.2
+        FormCost: 2000000
+        FormDodgeChance: 0.1
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.22
+        FormCost: 2500000
+        FormDodgeChance: 0.2
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.24
+        FormCost: 3000000
+        FormDodgeChance: 0.3
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 27.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.27
+        FormCost: 3500000
+        FormDodgeChance: 0.4
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 30.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.3
+        FormCost: 4500000
+        FormDodgeChance: 0.6
+  FSSJ:
+    name: FSSJ
+    FormattedName: False SS
+    Color: '&c&l'
+    Particle: none
+    Speed: 0.6
+    Race: -1
+    StackWithDBCForms: false
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: 0cXeh
+    AuraColor: 13807394
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: 015050545050212045525267502114455247675027015050475050180152507845502325505078455023015250805050230160505667501902525078455023345050764550232852507850502302525076505023025250765050230050507165503037695030655036015250195050212552502145502101525021455021015250215050213452502345502101525021455021015250235050210152502350502100505027655036178050505050803178505050508028785050505080228050505050801778505050508022765050505080257650505050801778505050508001785050505080147650505050801776505050508001785050505080005050505050800050505050508000505050505080005050505050803154508047504931545080435028315450804150472854508039506551525080475038655250804950786052507845503451525078455050625250804750528252508047503485525080475030625250784350585152508047506157525080455080625250804750805152508047504920
+    Eye1: 00000
+    Eye2: 00000
+    StatusEffs: B
+    State: 0
+    Kaio: -1
+    Level: 100
+    Color1: ORANGE
+    Color2: MAROON
+    FormMenu:
+      MenuLocation: 15
+      MenuItemID: 351
+      MenuItemDamage: 14
+      UpgradeItemID: 160
+      UpgradeItemDamage: 1
+    levels:
+      level-1:
+        FormDamage: 10
+        FormDamageMultiplier: 12.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 0
+        FormDamageMultiplier: 12.5
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 0
+        FormDamageMultiplier: 12.8
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 0
+        FormDamageMultiplier: 13.4
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 0
+        FormDamageMultiplier: 15.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 10000
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  FSSJ3DONTTOUCH:
+    name: FSSJ3DontTouch
+    FormattedName: False SS3
+    Color: '&c&l'
+    Particle: none
+    Speed: 0.6
+    Race: -1
+    StackWithDBCForms: false
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: 0cXeh
+    AuraColor: 13807394
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: 00000
+    Eye2: 00000
+    StatusEffs: B
+    State: 0
+    Kaio: -1
+    Level: 100
+    Color1: ORANGE
+    Color2: MAROON
+    FormMenu:
+      MenuLocation: 15
+      MenuItemID: 351
+      MenuItemDamage: 14
+      UpgradeItemID: 160
+      UpgradeItemDamage: 1
+    levels:
+      level-1:
+        FormDamage: 10
+        FormDamageMultiplier: 12.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 0
+        FormDamageMultiplier: 12.5
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 0
+        FormDamageMultiplier: 12.8
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 0
+        FormDamageMultiplier: 13.4
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 0
+        FormDamageMultiplier: 15.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK:
+    name: SK
+    FormattedName: Mastered Kaioken
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 1
+    Level: 15000
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK2DONTTOUCH:
+    name: SK2DONTTOUCH
+    FormattedName: Mastered Kaioken x2
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 1
+    Level: 0
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK3DONTTOUCH:
+    name: SK3DONTTOUCH
+    FormattedName: Mastered Kaioken x3
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 2
+    Level: 0
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK4DONTTOUCH:
+    name: SK4DONTTOUCH
+    FormattedName: Mastered Kaioken x10
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 3
+    Level: 0
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK5DONTTOUCH:
+    name: SK5DONTTOUCH
+    FormattedName: Mastered Kaioken x20
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 1
+    Level: 4
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK6DONTTOUCH:
+    name: SK6DONTTOUCH
+    FormattedName: Mastered Kaioken x50
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 5
+    Level: 0
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  SK7DONTTOUCH:
+    name: SK7DONTTOUCH
+    FormattedName: Mastered Kaioken
+    Color: '&4&l'
+    Particle: flame
+    Speed: 0.5
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: KB
+    State: -1
+    Kaio: 6
+    Level: 0
+    Color1: RED
+    Color2: ORANGE
+    FormMenu:
+      MenuLocation: 13
+      MenuItemID: 351
+      MenuItemDamage: 1
+      UpgradeItemID: 160
+      UpgradeItemDamage: 14
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  VOID:
+    name: VOID
+    FormattedName: SS Void
+    Color: '&8&l'
+    Particle: smoke
+    Speed: 0.9
+    Race: -1
+    StackWithDBCForms: false
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: 00000
+    AuraColor: 131586
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: 00000
+    Eye2: 00000
+    StatusEffs: B
+    State: -1
+    Kaio: -1
+    Level: 45000
+    Color1: GRAY
+    Color2: BLACK
+    FormMenu:
+      MenuLocation: 16
+      MenuItemID: 351
+      MenuItemDamage: 0
+      UpgradeItemID: 160
+      UpgradeItemDamage: 15
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 23.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 25.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 26.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.0
+  FPSS:
+    name: FPSS
+    FormattedName: Full Power SS
+    Color: '&a&l'
+    Particle: happyVillager
+    Speed: 1.0
+    Race: -1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: false
+    StackWithDBCUltraInstinct: false
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: LB
+    State: 3
+    Kaio: -1
+    Level: 30000
+    Color1: GREEN
+    Color2: OLIVE
+    FormMenu:
+      MenuLocation: 11
+      MenuItemID: 351
+      MenuItemDamage: 10
+      UpgradeItemID: 160
+      UpgradeItemDamage: 5
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 36.0
+        FormRegen: 0.1
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.1
+        FormCost: 100000
+        FormDodgeChance: 0.15
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 42.0
+        FormRegen: 0.2
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.2
+        FormCost: 100000
+        FormDodgeChance: 0.17
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 48.0
+        FormRegen: 0.3
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.3
+        FormCost: 100000
+        FormDodgeChance: 0.18
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 50.0
+        FormRegen: 0.4
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.4
+        FormCost: 100000
+        FormDodgeChance: 0.19
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 64.0
+        FormRegen: 0.5
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.5
+        FormCost: 100000
+        FormDodgeChance: 0.2
+  SAIYANDAY:
+    name: SaiyanDay
+    FormattedName: Full Power SSG
+    Color: '&4&o'
+    Particle: lava
+    Speed: 0.9
+    Race: 1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: true
+    StackWithDBCUltraInstinct: true
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: BLV
+    State: 11
+    Kaio: -1
+    Level: 0
+    Color1: RED
+    Color2: YELLOW
+    FormMenu:
+      MenuLocation: 10
+      MenuItemID: 372
+      MenuItemDamage: 0
+      UpgradeItemID: 51
+      UpgradeItemDamage: 0
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 20.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.2
+        FormCost: 2000000
+        FormDodgeChance: 0.1
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.22
+        FormCost: 2500000
+        FormDodgeChance: 0.2
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.24
+        FormCost: 3000000
+        FormDodgeChance: 0.3
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 27.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.27
+        FormCost: 3500000
+        FormDodgeChance: 0.4
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 30.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.3
+        FormCost: 4500000
+        FormDodgeChance: 0.6
+  SAIYANDAY2DONTTOUCH:
+    name: SaiyanDay2DONTTOUCH
+    FormattedName: Mastered SSB
+    Color: '&b&o'
+    Particle: splash
+    Speed: 0.9
+    Race: 1
+    StackWithDBCForms: true
+    StackWithDBCKaioken: true
+    StackWithDBCMystic: true
+    StackWithDBCUltraInstinct: true
+    HairColor: -1
+    AuraColor: -1
+    BuyAble: true
+    Alignment: -1
+    Hair: -1
+    CustomHair: -1
+    Eye1: -1
+    Eye2: -1
+    StatusEffs: B
+    State: 10
+    Kaio: -1
+    Level: 0
+    Color1: BLUE
+    Color2: AQUA
+    FormMenu:
+      MenuLocation: 10
+      MenuItemID: 372
+      MenuItemDamage: 0
+      UpgradeItemID: 51
+      UpgradeItemDamage: 0
+    levels:
+      level-1:
+        FormDamage: 2000000
+        FormDamageMultiplier: 20.0
+        FormRegen: 0.0
+        FormStaminaRegen: 50000
+        FormKiRegen: 20
+        FormDefense: 0.2
+        FormCost: 2000000
+        FormDodgeChance: 0.1
+      level-2:
+        FormDamage: 2500000
+        FormDamageMultiplier: 22.0
+        FormRegen: 0.0
+        FormStaminaRegen: 80000
+        FormKiRegen: 25
+        FormDefense: 0.22
+        FormCost: 2500000
+        FormDodgeChance: 0.2
+      level-3:
+        FormDamage: 3000000
+        FormDamageMultiplier: 24.0
+        FormRegen: 0.0
+        FormStaminaRegen: 100000
+        FormKiRegen: 30
+        FormDefense: 0.24
+        FormCost: 3000000
+        FormDodgeChance: 0.3
+      level-4:
+        FormDamage: 3500000
+        FormDamageMultiplier: 27.0
+        FormRegen: 0.0
+        FormStaminaRegen: 120000
+        FormKiRegen: 35
+        FormDefense: 0.27
+        FormCost: 3500000
+        FormDodgeChance: 0.4
+      level-5:
+        FormDamage: 4000000
+        FormDamageMultiplier: 30.0
+        FormRegen: 0.0
+        FormStaminaRegen: 105000
+        FormKiRegen: 40
+        FormDefense: 0.3
+        FormCost: 4500000
+        FormDodgeChance: 0.6

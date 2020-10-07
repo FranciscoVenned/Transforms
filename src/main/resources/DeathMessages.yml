@@ -1,0 +1,51 @@
+## Color codes work here and {PLAYER} is the player name.
+## Also the death messages can be used for regular mobs
+## such as creepers when using their proper name
+## Their name is usually the same, but capitalized.
+## Creeper = CREEPER | Zombie =  ZOMBIE | and so on...
+
+## To create a death message the format is as such
+## - {ENTITY} - {DeathMessage} or
+## - CREEPER - {PLAYER} was killed by a Creeper.
+DeathMessages:
+  - jinryuudragonblockc-Raditz - {PLAYER} was killed by Raditz
+  - jinryuudragonblockc-Nappa - {PLAYER} was killed by Nappa
+  - jinryuudragonblockc-Vegeta - {PLAYER} was killed by Vegeta
+  - jinryuudragonblockc-Saibaiman - {PLAYER} was killed a Saibaman
+  - jinryuudragonblockc-Saiyan01 - {PLAYER} was killed a Saiyan
+  - jinryuudragonblockc-Saiyan02 - {PLAYER} was killed a Saiyan
+  - jinryuudragonblockc-Kiwi - {PLAYER} was killed by Kiwi
+  - jinryuudragonblockc-Dodoria - {PLAYER} was killed by Dodoria
+  - jinryuudragonblockc-Zarbon - {PLAYER} was killed by Zarbon
+  - jinryuudragonblockc-Guldo - {PLAYER} was killed by Guldo
+  - jinryuudragonblockc-Recoome - {PLAYER} was killed by Recoome
+  - jinryuudragonblockc-Barta - {PLAYER} was killed by Barta
+  - jinryuudragonblockc-Jeice - {PLAYER} was killed by Jeice
+  - jinryuudragonblockc-Ginyu - {PLAYER} was killed by Ginyu
+  - jinryuudragonblockc-FreezaSoldier1 - {PLAYER} was killed Frieza's Soldiers
+  - jinryuudragonblockc-FreezaSoldier2 - {PLAYER} was killed Frieza's Soldiers
+  - jinryuudragonblockc-FreezaSoldier3 - {PLAYER} was killed Frieza's Soldiers
+  - jinryuudragonblockc-Freeza1 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-Freeza2 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-Freeza3 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-Freeza4 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-Freeza5 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-Freeza6 - {PLAYER} was killed by Frieza
+  - jinryuudragonblockc-KingCold - {PLAYER} was killed by King Cold
+  - jinryuudragonblockc-MechaFreeza - {PLAYER} was killed by Mecha Frieza
+  - jinryuudragonblockc-Cyborg16 - {PLAYER} was killed by Android 16
+  - jinryuudragonblockc-Cyborg17 - {PLAYER} was killed by Android 17
+  - jinryuudragonblockc-Cyborg18 - {PLAYER} was killed by Android 18
+  - jinryuudragonblockc-Cyborg19 - {PLAYER} was killed by Android 19
+  - jinryuudragonblockc-Cyborg20 - {PLAYER} was killed by Doctor Gero
+  - jinryuudragonblockc-Cell1 - {PLAYER} was killed by Imperfect Cell
+  - jinryuudragonblockc-Cell2 - {PLAYER} was killed by Semi-Perfect Cell
+  - jinryuudragonblockc-Cell3 - {PLAYER} was killed by Perfect Cell
+  - jinryuudragonblockc-Cell4 - {PLAYER} was killed by Full Power Cell
+  - jinryuudragonblockc-Namekian01 - {PLAYER} was killed by a Namekian
+  - jinryuudragonblockc-PuiPui - {PLAYER} was killed by PuiPui
+  - jinryuudragonblockc-Yakon - {PLAYER} was killed by Yakon
+  - jinryuudragonblockc-Dabura - {PLAYER} was killed by Dabura
+  - jinryuudragonblockc-BuuFat - {PLAYER} was killed by Fat Buu
+  - jinryuudragonblockc-BuuSuper - {PLAYER} was killed by Super Buu
+  - jinryuudragonblockc-Dino01 - {PLAYER} was killed by a Dinosaur
